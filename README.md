@@ -1,8 +1,4 @@
-# object-tracking
-Experimentation with different object tracking algorithms and assessing their suitability for different scenarios.
+# An Breif Assessment of Object Tracking Algorithms in OpenCV
 
-All of the code for running the object trackers can be run (or extracted from) the Jupyter notebook provided.
+Object Tracking using Python.ipynb contains an assessment of the suitability of different object tracking algorithms in OpenCV for the task of tracking a remote controlled BB-8 toy in a video.
 
-To view the results and code as a report, open the HTML file. 
-
-NOTE: Do not change the directory structure!
